@@ -1,0 +1,4 @@
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so.xz
+boot.img.xz
+modem.img.xz
+system/system/priv-app/MiuiCamera/MiuiCamera.apk.xz

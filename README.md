@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211006.001 V13.0.9.0.SKCMIXM release-keys
+- manufacturer: xiaomi
+- platform: holi
+- codename: veux
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211006.001
+- incremental: V13.0.9.0.SKCMIXM
+- tags: release-keys
+- fingerprint: qti/veux/veux:12/SKQ1.211006.001/V13.0.9.0.SKCMIXM:user/release-keys
+- is_ab: true
+- brand: qti
+- branch: qssi-user-12-SKQ1.211006.001-V13.0.9.0.SKCMIXM-release-keys
+- repo: qti_veux_dump
